@@ -1,10 +1,11 @@
-## Entrega TP Frontend — [APELLIDO, NOMBRE]
+﻿## Entrega TP Frontend — [APELLIDO, NOMBRE]
 
 ### Información del estudiante
-- **Nombre completo:** 
-- **Legajo / DNI:** 
-- **Comisión:** 
-- **Rama:** `tp/apellido-nombre`
+- Nombre completo:Nardulli Ornela
+- Legajo: 33.927
+- DNI:44.962.494 
+- Comisión:S34
+- Rama:tpDesarrolo/nardulli-nombre
 
 ---
 
