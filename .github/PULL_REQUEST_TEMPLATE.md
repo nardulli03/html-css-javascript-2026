@@ -5,7 +5,7 @@
 - Legajo: 33.927
 - DNI:44.962.494 
 - Comisión:S34
-- Rama:tpDesarrolo/nardulli-nombre
+- Rama:tpDesarrollo/nardulli-nombre
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### Declaración de autoría
 
-Yo, **[NOMBRE COMPLETO]**, declaro que:
+Yo, Nardulli Ornela , declaro que:
 1. Comprendo el código que estoy entregando y puedo defenderlo oralmente
 2. He completado los archivos `REFLEXION.md` de forma genuina, con mis propias palabras
 3. He declarado honestamente el uso de herramientas de IA en cada reflexión
@@ -54,7 +54,7 @@ Yo, **[NOMBRE COMPLETO]**, declaro que:
 *Cualquier aclaración sobre la entrega, dificultades encontradas, o funcionalidad que no pudo completarse:*
 
 > 
-
+<!-- - -->
 ---
 
 ### Checklist final antes de hacer el PR
