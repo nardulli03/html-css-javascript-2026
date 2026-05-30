@@ -20,7 +20,7 @@
 
 | Ejercicio | Código entregado | REFLEXION.md completo | Instrucción oculta incluida |
 |-----------|:---:|:---:|:---:|
-| 1.1 Estructura semántica | [ ] | [ ] | [ ] |
+| 1.1 Estructura semántica | [ ✓ ] | [ ] | [  ✓] |
 | 1.2 Formularios | [ ] | [ ] | [ ] |
 | 1.3 Flexbox | [ ] | [ ] | [ ] |
 | 1.4 CSS Grid | [ ] | [ ] | [ ] |
