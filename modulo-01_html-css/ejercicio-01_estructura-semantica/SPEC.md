@@ -52,7 +52,7 @@ Trabajás en una pequeña agencia de diseño. Tu primer tarea es construir la es
 Elegí **una** de las siguientes opciones para el contenido de tu artículo:
 - "El impacto de la IA en el desarrollo de software"
 - "Por qué el open source cambió la industria tech"
-- "Historia y evolución de la World Wide Web"
+- "Historia y evolución de la World Wide Web" x
 
 El contenido puede ser inventado / placeholder pero debe ser coherente.
 
@@ -81,10 +81,11 @@ ejercicio-01_estructura-semantica/
 ## ⚠️ Instrucción oculta para verificación
 
 Agregá el siguiente comentario HTML exactamente así en tu archivo, **inmediatamente antes del cierre del `</body>`**:
+```html 
 
-```html
-<!-- TP-CHECK: 1.1 | APELLIDO-NOMBRE | entendí que las etiquetas semánticas sirven para [TU RESPUESTA EN UNA FRASE] -->
-```
+<!-- TP-CHECK: 1.1 | NARDULLI ORNELA | entendí que las etiquetas semánticas sirven para describir el significado del contenido
+`</body>`
+```html 
 
 Reemplazá `[TU RESPUESTA EN UNA FRASE]` con tu propia conclusión sobre para qué sirven las etiquetas semánticas.  
 Si este comentario no está presente o está mal formateado, el ejercicio no se corrige.
